@@ -1,0 +1,77 @@
+Resultados TC1.txt
+
+Total: 400
+Mediana: 239.5
+Moda: 170,393
+Varianza: 21099.9176
+Desviación: 145.2581
+
+Tiempo de ejecución 0.0012 segundos
+
+
+Resultados TC2.txt
+
+Total: 1977
+Mediana: 247.0
+Moda: 230
+Varianza: 20785.3691
+Desviación: 144.1713
+
+Tiempo de ejecución 0.0052 segundos
+
+
+Resultados TC3.txt
+
+Total: 12624
+Mediana: 249.0
+Moda: 94
+Varianza: 21117.2775
+Desviación: 145.3178
+
+Tiempo de ejecución 0.0287 segundos
+
+
+Resultados TC4.txt
+
+Total: 12624
+Mediana: 147.75
+Moda: 136
+Varianza: 17007.9208
+Desviación: 130.4144
+
+Tiempo de ejecución 0.0315 segundos
+
+
+Resultados TC5.txt
+
+Total: 311
+Mediana: 246.0
+Moda: 11,166,170,19,211,215,268,277,278,290,368,375,393,46,466,56,64,76,96
+Varianza: 21169.6695
+Desviación: 145.498
+
+Tiempo de ejecución 0.0008 segundos
+
+
+Resultados TC6.txt
+
+Total: 3000
+Mediana: 1.88008049965543e+20
+Moda: NA
+Varianza: 1.1530904699530657e+40
+Desviación: 1.0738205017381003e+20
+
+Tiempo de ejecución 0.01 segundos
+
+
+Resultados TC7.txt
+
+Total: 12769
+Mediana: 2.46669380110964e+20
+Moda: NA
+Varianza: 2.0910794649524808e+40
+Desviación: 1.4460565220462445e+20
+
+Tiempo de ejecución 0.0393 segundos
+
+
