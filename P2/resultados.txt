@@ -201,7 +201,7 @@ Resultados TC1.txt
 199 valor:     858440 Bin:      11010001100101001000 Hex:    D1948
 200 valor:    2250854 Bin:    1000100101100001100110 Hex:   225866
 
-Tiempo de ejecución 0.0147 segundos
+Tiempo de ejecución 0.0022 segundos
 
 
 Resultados TC2.txt
@@ -407,7 +407,7 @@ Resultados TC2.txt
 199 valor:    7093069 Bin:   11011000011101101001101 Hex:   6C3B4D
 200 valor:         39 Bin:                    100111 Hex:       27
 
-Tiempo de ejecución 0.0122 segundos
+Tiempo de ejecución 0.0022 segundos
 
 
 Resultados TC3.txt
@@ -613,54 +613,7 @@ Resultados TC3.txt
 199 valor:         17 Bin:                     10001 Hex:       11
 200 valor:          4 Bin:                       100 Hex:        4
 
-Tiempo de ejecución 0.0123 segundos
-
-
-Resultados TC4.txt
-
-001 valor:        -39 Bin:                  11011001 Hex: FFFFFFD9
-002 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-003 valor:          8 Bin:                      1000 Hex:        8
-004 valor:         34 Bin:                    100010 Hex:       22
-005 valor:         17 Bin:                     10001 Hex:       11
-006 valor:         49 Bin:                    110001 Hex:       31
-007 valor:          5 Bin:                       101 Hex:        5
-008 valor:        ABC Bin:                        NA Hex:       NA
-009 valor:          0 Bin:                         0 Hex:        0
-010 valor:         33 Bin:                    100001 Hex:       21
-011 valor:         12 Bin:                      1100 Hex:        C
-012 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-013 valor:         27 Bin:                     11011 Hex:       1B
-014 valor:         -4 Bin:                  11111100 Hex: FFFFFFFC
-015 valor:        -38 Bin:                  11011010 Hex: FFFFFFDA
-016 valor:         26 Bin:                     11010 Hex:       1A
-017 valor:         49 Bin:                    110001 Hex:       31
-018 valor:         29 Bin:                     11101 Hex:       1D
-019 valor:         42 Bin:                    101010 Hex:       2A
-020 valor:        -16 Bin:                  11110000 Hex: FFFFFFF0
-021 valor:        ERR Bin:                        NA Hex:       NA
-022 valor:         34 Bin:                    100010 Hex:       22
-023 valor:         20 Bin:                     10100 Hex:       14
-024 valor:          0 Bin:                         0 Hex:        0
-025 valor:         25 Bin:                     11001 Hex:       19
-026 valor:         45 Bin:                    101101 Hex:       2D
-027 valor:          3 Bin:                        11 Hex:        3
-028 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-029 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-030 valor:         29 Bin:                     11101 Hex:       1D
-031 valor:         33 Bin:                    100001 Hex:       21
-032 valor:         29 Bin:                     11101 Hex:       1D
-033 valor:         26 Bin:                     11010 Hex:       1A
-034 valor:         -5 Bin:                  11111011 Hex: FFFFFFFB
-035 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-036 valor:         12 Bin:                      1100 Hex:        C
-037 valor:         45 Bin:                    101101 Hex:       2D
-038 valor:        -50 Bin:                  11001110 Hex: FFFFFFCE
-039 valor:          0 Bin:                         0 Hex:        0
-040 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-041 valor:        VAL Bin:                        NA Hex:       NA
-
-Tiempo de ejecución 0.0012 segundos
+Tiempo de ejecución 0.0036 segundos
 
 
 Resultados TC4.txt
@@ -708,146 +661,5 @@ Resultados TC4.txt
 041 valor:        VAL Bin:                        NA Hex:       NA
 
 Tiempo de ejecución 0.0004 segundos
-
-
-Resultados TC4.txt
-
-001 valor:        -39 Bin:                  11011001 Hex: FFFFFFD9
-002 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-003 valor:          8 Bin:                      1000 Hex:        8
-004 valor:         34 Bin:                    100010 Hex:       22
-005 valor:         17 Bin:                     10001 Hex:       11
-006 valor:         49 Bin:                    110001 Hex:       31
-007 valor:          5 Bin:                       101 Hex:        5
-008 valor:        ABC Bin:                        NA Hex:       NA
-009 valor:          0 Bin:                         0 Hex:        0
-010 valor:         33 Bin:                    100001 Hex:       21
-011 valor:         12 Bin:                      1100 Hex:        C
-012 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-013 valor:         27 Bin:                     11011 Hex:       1B
-014 valor:         -4 Bin:                  11111100 Hex: FFFFFFFC
-015 valor:        -38 Bin:                  11011010 Hex: FFFFFFDA
-016 valor:         26 Bin:                     11010 Hex:       1A
-017 valor:         49 Bin:                    110001 Hex:       31
-018 valor:         29 Bin:                     11101 Hex:       1D
-019 valor:         42 Bin:                    101010 Hex:       2A
-020 valor:        -16 Bin:                  11110000 Hex: FFFFFFF0
-021 valor:        ERR Bin:                        NA Hex:       NA
-022 valor:         34 Bin:                    100010 Hex:       22
-023 valor:         20 Bin:                     10100 Hex:       14
-024 valor:          0 Bin:                         0 Hex:        0
-025 valor:         25 Bin:                     11001 Hex:       19
-026 valor:         45 Bin:                    101101 Hex:       2D
-027 valor:          3 Bin:                        11 Hex:        3
-028 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-029 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-030 valor:         29 Bin:                     11101 Hex:       1D
-031 valor:         33 Bin:                    100001 Hex:       21
-032 valor:         29 Bin:                     11101 Hex:       1D
-033 valor:         26 Bin:                     11010 Hex:       1A
-034 valor:         -5 Bin:                  11111011 Hex: FFFFFFFB
-035 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-036 valor:         12 Bin:                      1100 Hex:        C
-037 valor:         45 Bin:                    101101 Hex:       2D
-038 valor:        -50 Bin:                  11001110 Hex: FFFFFFCE
-039 valor:          0 Bin:                         0 Hex:        0
-040 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-041 valor:        VAL Bin:                        NA Hex:       NA
-
-Tiempo de ejecución 0.0003 segundos
-
-
-Resultados TC4.txt
-
-001 valor:        -39 Bin:                  11011001 Hex: FFFFFFD9
-002 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-003 valor:          8 Bin:                      1000 Hex:        8
-004 valor:         34 Bin:                    100010 Hex:       22
-005 valor:         17 Bin:                     10001 Hex:       11
-006 valor:         49 Bin:                    110001 Hex:       31
-007 valor:          5 Bin:                       101 Hex:        5
-008 valor:        ABC Bin:                        NA Hex:       NA
-009 valor:          0 Bin:                         0 Hex:        0
-010 valor:         33 Bin:                    100001 Hex:       21
-011 valor:         12 Bin:                      1100 Hex:        C
-012 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-013 valor:         27 Bin:                     11011 Hex:       1B
-014 valor:         -4 Bin:                  11111100 Hex: FFFFFFFC
-015 valor:        -38 Bin:                  11011010 Hex: FFFFFFDA
-016 valor:         26 Bin:                     11010 Hex:       1A
-017 valor:         49 Bin:                    110001 Hex:       31
-018 valor:         29 Bin:                     11101 Hex:       1D
-019 valor:         42 Bin:                    101010 Hex:       2A
-020 valor:        -16 Bin:                  11110000 Hex: FFFFFFF0
-021 valor:        ERR Bin:                        NA Hex:       NA
-022 valor:         34 Bin:                    100010 Hex:       22
-023 valor:         20 Bin:                     10100 Hex:       14
-024 valor:          0 Bin:                         0 Hex:        0
-025 valor:         25 Bin:                     11001 Hex:       19
-026 valor:         45 Bin:                    101101 Hex:       2D
-027 valor:          3 Bin:                        11 Hex:        3
-028 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-029 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-030 valor:         29 Bin:                     11101 Hex:       1D
-031 valor:         33 Bin:                    100001 Hex:       21
-032 valor:         29 Bin:                     11101 Hex:       1D
-033 valor:         26 Bin:                     11010 Hex:       1A
-034 valor:         -5 Bin:                  11111011 Hex: FFFFFFFB
-035 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-036 valor:         12 Bin:                      1100 Hex:        C
-037 valor:         45 Bin:                    101101 Hex:       2D
-038 valor:        -50 Bin:                  11001110 Hex: FFFFFFCE
-039 valor:          0 Bin:                         0 Hex:        0
-040 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-041 valor:        VAL Bin:                        NA Hex:       NA
-
-Tiempo de ejecución 0.0004 segundos
-
-
-Resultados TC4.txt
-
-001 valor:        -39 Bin:                  11011001 Hex: FFFFFFD9
-002 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-003 valor:          8 Bin:                      1000 Hex:        8
-004 valor:         34 Bin:                    100010 Hex:       22
-005 valor:         17 Bin:                     10001 Hex:       11
-006 valor:         49 Bin:                    110001 Hex:       31
-007 valor:          5 Bin:                       101 Hex:        5
-008 valor:        ABC Bin:                        NA Hex:       NA
-009 valor:          0 Bin:                         0 Hex:        0
-010 valor:         33 Bin:                    100001 Hex:       21
-011 valor:         12 Bin:                      1100 Hex:        C
-012 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-013 valor:         27 Bin:                     11011 Hex:       1B
-014 valor:         -4 Bin:                  11111100 Hex: FFFFFFFC
-015 valor:        -38 Bin:                  11011010 Hex: FFFFFFDA
-016 valor:         26 Bin:                     11010 Hex:       1A
-017 valor:         49 Bin:                    110001 Hex:       31
-018 valor:         29 Bin:                     11101 Hex:       1D
-019 valor:         42 Bin:                    101010 Hex:       2A
-020 valor:        -16 Bin:                  11110000 Hex: FFFFFFF0
-021 valor:        ERR Bin:                        NA Hex:       NA
-022 valor:         34 Bin:                    100010 Hex:       22
-023 valor:         20 Bin:                     10100 Hex:       14
-024 valor:          0 Bin:                         0 Hex:        0
-025 valor:         25 Bin:                     11001 Hex:       19
-026 valor:         45 Bin:                    101101 Hex:       2D
-027 valor:          3 Bin:                        11 Hex:        3
-028 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-029 valor:        -46 Bin:                  11010010 Hex: FFFFFFD2
-030 valor:         29 Bin:                     11101 Hex:       1D
-031 valor:         33 Bin:                    100001 Hex:       21
-032 valor:         29 Bin:                     11101 Hex:       1D
-033 valor:         26 Bin:                     11010 Hex:       1A
-034 valor:         -5 Bin:                  11111011 Hex: FFFFFFFB
-035 valor:        -36 Bin:                  11011100 Hex: FFFFFFDC
-036 valor:         12 Bin:                      1100 Hex:        C
-037 valor:         45 Bin:                    101101 Hex:       2D
-038 valor:        -50 Bin:                  11001110 Hex: FFFFFFCE
-039 valor:          0 Bin:                         0 Hex:        0
-040 valor:         -6 Bin:                  11111010 Hex: FFFFFFFA
-041 valor:        VAL Bin:                        NA Hex:       NA
-
-Tiempo de ejecución 0.0006 segundos
 
 
