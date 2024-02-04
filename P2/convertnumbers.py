@@ -29,14 +29,14 @@ def otener_valores(file_name):
         print(f"error al consultar archivo: {e}")
         return res
 
-def obtener_binario(integer):
+def obtener_binario(numero):
     '''Obtiene el balor binario de un número entero'''
     cadena = ""
-    if integer != 0:
-        while integer > 0:
-            digit = integer % 2
+    if numero != 0:
+        while numero > 0:
+            digit = numero % 2
             cadena += str(digit)
-            integer = integer // 2
+            numero = numero // 2
         cadena = cadena[::-1]
     else:
         cadena = 0
@@ -52,28 +52,28 @@ def completa_vacio(cadena, long):
     faltante = long - len(cadena)
     return " " * faltante + cadena
 
-def complemeto2(binario):
-    '''invierte los valores binarios'''
-    n = len(binario)
-    i = n - 1
-    while i >= 0:
-        if binario[i] == '1':
+def complemeto2(cadena):
+    '''invierte los valores cadenas'''
+    tam = len(cadena)
+    val = tam - 1
+    while val >= 0:
+        if cadena[val] == '1':
             break
-        i -= 1
-    if i == -1:
-        return '1'+binario
-    k = i - 1
-    while k >= 0:
-        if binario[k] == '1':
-            binario = list(binario)
-            binario[k] = '0'
-            binario = ''.join(binario)
+        val -= 1
+    if val == -1:
+        return '1'+cadena
+    tam = val - 1
+    while tam >= 0:
+        if cadena[tam] == '1':
+            cadena = list(cadena)
+            cadena[tam] = '0'
+            cadena = ''.join(cadena)
         else:
-            binario = list(binario)
-            binario[k] = '1'
-            binario = ''.join(binario)
-        k -= 1
-    return binario
+            cadena = list(cadena)
+            cadena[tam] = '1'
+            cadena = ''.join(cadena)
+        tam -= 1
+    return cadena
 
 def obtener_hex(cadena):
     '''convierte números bianrios a hexadecimal'''
@@ -113,7 +113,7 @@ def calcular_valores(numeros):
             if valor < 0:
                 neg = valor * - 1
                 bianrio = obtener_binario(neg)
-                conv = completa_vacio(complemeto2(completa_cero(bianrio,10)),25)
+                conv = completa_vacio(complemeto2(completa_cero(bianrio,8)),25)
             else:
                 conv = obtener_binario(valor)
                 conv =completa_vacio(str(conv),25)
