@@ -23,7 +23,7 @@ def otener_valores(file_name):
     res = []
     try:
         with open(file_name, 'r', encoding="utf-8") as file:
-            res = file.read().splitlines() 
+            res = file.read().splitlines()
         return  res
     except FileNotFoundError:
         print(f"El archivo {file_name} no existe\n")
